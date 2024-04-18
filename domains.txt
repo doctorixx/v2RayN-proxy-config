@@ -50,4 +50,6 @@ telegram.org,
 swagger.io,
 canva-apps.com,
 gitguardian.com,
-play.google.com
+play.google.com,
+chat.openai.com,
+openai.com
