@@ -51,4 +51,6 @@ datacamp.com,
 digitalocean.com,
 dashboard.gitguardian.com,
 gitguardian.com,
-chatgpt.com
+chatgpt.com,
+patreon.com,
+netacad.com
