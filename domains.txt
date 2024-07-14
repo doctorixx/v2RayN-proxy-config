@@ -53,4 +53,7 @@ dashboard.gitguardian.com,
 gitguardian.com,
 chatgpt.com,
 patreon.com,
-netacad.com
+netacad.com,
+temp-mail.org,
+prompthero.com,
+redis.io,
