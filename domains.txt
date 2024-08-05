@@ -57,3 +57,4 @@ netacad.com,
 temp-mail.org,
 prompthero.com,
 redis.io,
+gemini.google.com
